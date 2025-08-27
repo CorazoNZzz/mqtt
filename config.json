@@ -1,0 +1,24 @@
+{
+  "mqtt": {
+    "broker": "mqtt.azuratech.com",
+    "port": 1883,
+    "username": "admin",
+    "password": "test",
+    "keepalive": 60
+  },
+  "devices": [
+    "24121010060041",
+    "24121010060040",
+    "24121010060043",
+    "24121010060046",
+    "24121010060049",
+    "24121010060045",
+    "24121010060044",
+    "24121010060042"
+  ],
+  "forward": {
+    "broker": "mqtt.azuratech.com",
+    "port": 1883,
+    "topic": "YCWLWZGW2024111801"
+  }
+} 
